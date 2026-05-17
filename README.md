@@ -48,12 +48,3 @@ Third-year B.Sc. Physics student interested in numerical methods, statistical me
 | [Physics Notes](https://github.com/eran-rehani/physics-notes) | LaTeX summaries for HUJI physics courses — mechanics, waves, probability, nonlinear dynamics | LaTeX |
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=eran-rehani&show_icons=true&theme=default&hide_border=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eran-rehani&layout=compact&theme=default&hide_border=true)
-
-</div>
