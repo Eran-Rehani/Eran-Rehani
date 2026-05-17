@@ -46,6 +46,6 @@ Third-year B.Sc. Physics student interested in numerical methods, statistical me
 | [Numerical Schrödinger Solver](https://github.com/eran-rehani/Numerical-Schrodinger-Solver) | Finite differences & Numerov O(h⁴); convergence checks, Coulomb corrections, SCF for multi-electron atoms | Python · SciPy |
 | [Chaos & Nonlinear Dynamics](https://github.com/eran-rehani/Chaos-and-Nonlinear-Dynamics) | Drip faucet bifurcation diagrams, RLD circuit chaos onset; Feigenbaum constant extracted | Python · Matplotlib |
 | [Brownian Motion Particle Tracking](https://github.com/eran-rehani/Brownian-Motion-Particle-Tracking) | OpenCV particle tracker + Stokes-Einstein diffusion analysis | Python · OpenCV |
-| [Physics Notes](https://github.com/eran-rehani/physics-notes) | LaTeX summaries for HUJI physics courses — mechanics, waves, probability, nonlinear dynamics | LaTeX |
+| [Physics Notes]([https://github.com/eran-rehani/physics-notes](https://github.com/Eran-Rehani/lecture-notes-huji)) | LaTeX summaries for HUJI physics courses  | LaTeX |
 
 ---
