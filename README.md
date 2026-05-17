@@ -7,7 +7,7 @@
 Third-year B.Sc. Physics student interested in numerical methods, statistical mechanics, and scientific simulation. I build simulations from first principles — Monte Carlo, molecular dynamics, numerical quantum mechanics.
 
 [![Email](https://img.shields.io/badge/email-eran.rehani@mail.huji.ac.il-blue?style=flat&logo=gmail&logoColor=white)](mailto:eran.rehani@mail.huji.ac.il)
-[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Eran-Rehani/cv/raw/main/CV_Eran_Rehani.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Eran-Rehani/cv/blob/main/CV_EN_minimal.pdf)
 
 </div>
 
