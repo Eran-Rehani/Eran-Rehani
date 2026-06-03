@@ -4,7 +4,7 @@
 
 **Computational Physics · Hebrew University of Jerusalem**
 
-Third-year B.Sc. Physics student interested in numerical methods, statistical mechanics, and scientific simulation. I build simulations from first principles — Monte Carlo, molecular dynamics, numerical quantum mechanics.
+B.Sc. Physics student interested in numerical methods, statistical mechanics, and scientific simulation. I build simulations from first principles — Monte Carlo, molecular dynamics, numerical quantum mechanics.
 
 [![Email](https://img.shields.io/badge/email-eran.rehani@mail.huji.ac.il-blue?style=flat&logo=gmail&logoColor=white)](mailto:eran.rehani@mail.huji.ac.il)
 [![CV](https://img.shields.io/badge/CV-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Eran-Rehani/cv/blob/main/CV_EN_minimal.pdf)
@@ -41,11 +41,12 @@ Third-year B.Sc. Physics student interested in numerical methods, statistical me
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [Physics Notes]( https://github.com/eran-rehani/lecture-notes-huji) | LaTeX summaries for HUJI physics courses  | LaTeX |
 | [2D Ising Model — Monte Carlo](https://github.com/eran-rehani/2D-Ising-Model-Monte-Carlo) | Heat-bath MC with Numba JIT; Onsager Tc, critical exponents β γ ν via finite-size scaling | Python · Numba |
 | [Hard-Disk Gas — Molecular Dynamics](https://github.com/eran-rehani/Hard-Disk-Gas-Molecular-Dynamics) | Event-driven MD simulation of 2D hard-disk gas; Maxwell-Boltzmann & g(r) verified | Python · NumPy |
 | [Numerical Schrödinger Solver](https://github.com/eran-rehani/Numerical-Schrodinger-Solver) | Finite differences & Numerov O(h⁴); convergence checks, Coulomb corrections, SCF for multi-electron atoms | Python · SciPy |
 | [Chaos & Nonlinear Dynamics](https://github.com/eran-rehani/Chaos-and-Nonlinear-Dynamics) | Drip faucet bifurcation diagrams, RLD circuit chaos onset; Feigenbaum constant extracted | Python · Matplotlib |
 | [Brownian Motion Particle Tracking](https://github.com/eran-rehani/Brownian-Motion-Particle-Tracking) | OpenCV particle tracker + Stokes-Einstein diffusion analysis | Python · OpenCV |
-| [Physics Notes]( https://github.com/eran-rehani/lecture-notes-huji) | LaTeX summaries for HUJI physics courses  | LaTeX |
+
 
 ---
